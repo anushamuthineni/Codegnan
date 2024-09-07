@@ -1,1 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Resume</title>
+    <style>
+        /* Basic CSS for layout and styling */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color:;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background:aliceblue;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2, h3 {
+            color:brown;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            border-bottom: 2px solid black;
+            padding-bottom: 10px;
+            margin-bottom: 10px;
+        }
+        .section ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .section ul li {
+            margin-bottom: 5px;
+        }
+        .contact-info {
+            font-size: 14px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <h1>Anusha Muthineni</h1>
+        <p class="contact-info">Email: anushamuthineni18@gmail.com  </br>  Phone: 8465850119  </br>  Location: Hyderabad</p>
+    </header>
+
+    <div class="section">
+        <h2>objactive</h2>
+        <p>To work in a creative, challenging environment and to achieve a growth-oriented career in an organization. Where I can contribute to the organization and improve my technical skills, knowledge and functional experience.</p>
+    </div>
+
+    <div class="section">
+        <h2>Projects</h2>
+        <ul>
+            <li><strong>PROJECT TITLE - Stolen Phone Recovering Portal | HTML,CS
+            </strong> </li>
+            <p>Designed a portal for finding stolen mobiles using IMEI(International Mobile Equipment Identity) Number.</p>
+
+            <li><strong>PROJECT TITLE- File Pioneer | JavaScript</strong></li>
+            <p>Designed a method for exporting any document or data from one user to another user or transversal of 
+                files for multiple users will be automated using JavaScript.</p>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Education</h2>
+        <ul>
+            <li><strong>Bachelor Degree:</strong> CMR College of Engineering and Technology</li>
+            <p>Completed in the year 2024 with 73%.</p>
+
+            <li><strong>Board of Intermediate Certificate:</strong> Narayana jr College</li>
+            <p> Completed in the year 2020 with 92%. </p>
+            <li><strong>Board of Secondary Education (SSC) Certificate: </strong> T.S.R School</li>
+            <p> Completed in the year 2018 with 84%.</p>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Skills</h2>
+        <ul>
+            <li><strong> Programming Languages:</strong>C,Java</li>
+            <li><strong>Scrpting Languages:</strong> Java Script,HTML,CSS</li>
+            <li><strong>Databases:</strong>Mysql</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Certifications</h2>
+        <ul>
+            <li>Participated in several technical quizzes by flipkart.</li>
+            <li>Earned certification Cyber security Essentials by Cisco network academy.</li>
+        </ul>
+    </div>
+</div>
+
+</body>
+</html>
 
